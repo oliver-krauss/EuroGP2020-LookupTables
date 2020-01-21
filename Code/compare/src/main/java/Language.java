@@ -1,0 +1,55 @@
+/**
+ * @author Oliver Krauss on 19.08.2019
+ */
+
+public enum Language {
+
+  C,
+  CNoLog,
+
+  CSqrt,
+  CSurt,
+  CPPSqrt,
+  CPPCbrt,
+  CPPSurt,
+  JavaSqrt,
+  JavaCbrt,
+  JavaSurt,
+
+  UFBitdiff,
+  UFBitdiffVA,
+  UFHardLog,
+  UFHardLogVA,
+  UFLog,
+  UFLogVA,
+  UFMul,
+  UFMulVA,
+  UFNoLog,
+  UFNoLogVA,
+  UFDistrBitdiff,
+  UFDistrBitdiffVA,
+  UFDistrHardLog,
+  UFDistrHardLogVA,
+  UFDistrLog,
+  UFDistrLogVA,
+  UFDistrMul,
+  UFDistrMulVA,
+  UFDistrNoLog,
+  UFDistrNoLogVA,
+  UFCenterBitdiff,
+  UFCenterBitdiffVA,
+  UFCenterBitdiffFN,
+  UFCenterHardLog,
+  UFCenterHardLogVA,
+  UFCenterHardLogFN,
+  UFCenterLog,
+  UFCenterLogVA,
+  UFCenterLogFN,
+  UFCenterMul,
+  UFCenterMulVA,
+  UFCenterMulFN,
+  UFCenterNoLog,
+  UFCenterNoLogVA,
+  UFCenterNoLogFN,
+  NONE
+}
